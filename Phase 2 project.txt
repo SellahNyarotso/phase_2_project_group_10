@@ -1,0 +1,37 @@
+EXPLORATORY DATA ANALYSIS FOR HOME OWNERS IN REAL ESTATE BUSINESS
+The home owners wants advice about how home renovations might increase value of their homes and by what amounts,
+All analysis were conducted from the available data and insight are here-in shared for an informed decision.
+
+
+Project Details.
+The aim for this project was to help the home owners perform better as they renovate their homes.
+
+The following data was used for analysis
+KC_house data
+
+
+ some exploritory analysis was performed and  some business recommendations were shared with the home owners,the analyses was guided by the following Objectives;
+.Is the price of a house affected by it's location
+Does the age of a house affect it's price
+Does the design affect the price of a house
+Does the number of the bedrooms,bathrooms and floors affect the price
+
+Conclusion.
+Based on the findings, the following was concluded;
+
+The more bedrooms the house has,the higher the price![Alt text](image-1.png)
+
+For the houses built years ago,during renovation,the sqft_living area can be considered to be large and this will attract more clients
+
+The number of bedrooms is affecting the pricing of the houses,therefore,while renovating houses with less than 3 bedrooms,it should have standards of those with more than 3 bedrooms in-terms of conditions and grade
+Also,for the houses with basement,this can be converted in a creative way to have spacious rooms and especially for the houses with 1 and 2 bedrooms.
+
+The location of the houses was noted not to affect the pricing significantly,this should not limit the setting of the prices if the most significant things :Living room space and  number of bedrooms is considered.
+
+The more spacious the sqft_living is the higher the price
+
+BUSINESS RECOMMENDATIONS
+After the above Conclusions,the following can be recommended to the business:
+1.The number of bedrooms is relevant while setting price of the houses
+2.The space of the living rooms is a determinant and should be considered
+3.For the houses with 1 or 2 bedrooms and have basement,the basements can be worked on creating more space for the living room.
